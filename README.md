@@ -179,3 +179,23 @@ b) Promotional activities like giving offers, discounts or conducting special ca
 c) As per analysis Casual users contribute to 20 % of total usage as compared to 80 % for registered users. Company can implement one time registration offers to increase the registration count of the users. 
 
 d) As per pie plot and Two Sample Independent T Test its evident that usage of rental bikes on working day is more than non working day. In order to improve the usage of bikes on non working day we can make discount offers to those who used bikes throughout the week.
+
+**Dataset Used**:
+
+The datasets used include:
+
+bike_sharing.csv
+
+**Tools and Technologies used :**
+
+The tools used in this project include:
+
+Python - This was needed to conduct Data Quality Assessment and also for Data Cleaning processes. With Python libraries pandas, matplotlib, seaborn exploratory data analysis of the datasets and to gain useful insights from the data was possible.
+
+**Built With:**
+
+Python 3.10.12
+
+**Authors**
+
+J Siva Teja
