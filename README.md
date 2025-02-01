@@ -4,6 +4,7 @@ Electrice Bike Rental company has recently suffered considerable dips in its rev
 
 **Approach :** Now we are going to identify the dependent variable and will explore the relation or dependencies of dependent variable with independent  variables.
 
+
 **2. Insights about Dataset:**
 
 a) Total no of records in dataset are 10886.
@@ -21,6 +22,7 @@ f) Dependent variable in the given dataset is “count” and it is dependent on
 g) In the given dataset the unique values of nominal variables are : 
 
 season : [1,2,3,4], weather = [1,2,3,4], working day = [0,1], holiday = [0,1] and all the other variables are continuous variables.
+
 
 **3. Identification of Outliers and Transformation of data:**
 
@@ -102,6 +104,7 @@ From above lineplot we can infer that usage of rental bike increases with increa
 
 As per above heatmap we can infer that variables temp, season, windspeed, casual and registered are positively correlated to “count” variable.
 
+
 **5. Hypothesis Testing:**
 
 Hypothesis Testing has been carried out to conclude our inferences derived out of visual analysis.
@@ -163,6 +166,7 @@ In order to check the dependency of temperature on rental bike usage, continuous
 ![image](https://github.com/user-attachments/assets/627ac9e3-2766-42dc-b8fd-c8a4dbb0e76b)
  
 **Conclusion: Rental Bike Usage varies based on Humidity.**
+
 
 **6. Recommendations:**
 
